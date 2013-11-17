@@ -21,7 +21,7 @@ Acá tenemos el string a traducir
 
 Acá el traducido
 
-< string name = "status_bar_clock " > Hora y fecha< /string><string name="status_bar_clock">Hora y fecha < /string >
+< string name = " status_bar_clock " > Hora y fecha < / string >
 
 
 Espero su colaboración.
